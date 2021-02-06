@@ -31,3 +31,4 @@
 !f29](Webes3.png)
 ![30](HTML.png)
 ![31](index.html)
+!f32](CssImplicit.png)
