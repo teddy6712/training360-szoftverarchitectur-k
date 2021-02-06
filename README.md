@@ -17,3 +17,4 @@
 ![15](DBeaverconn.png)
 ![16](SQLKonz5.png)
 ![17](SQLKonz6.png)
+![18](SQL7.png)
