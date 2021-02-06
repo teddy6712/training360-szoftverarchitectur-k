@@ -1,2 +1,2 @@
 # training360-szoftverarchitectur-k
-StandaloneKonzolos.png
+![Első]StandaloneKonzolos.png
