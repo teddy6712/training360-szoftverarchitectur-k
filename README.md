@@ -25,3 +25,4 @@
 ![23](Mongoinsert.png)
 ![24](Mongodel.png)
 ![25[(Többréteg.png)
+![26](TöbbrNapló.png)
