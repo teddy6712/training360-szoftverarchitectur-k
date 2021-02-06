@@ -22,4 +22,5 @@
 ![20](SQL9.png)
 ![21](Mongo.png)
 ![22](Mongoconzol.png)
-!f23](Mongoinsert.png)
+![23](Mongoinsert.png)
+![24](Mongodel.png)
