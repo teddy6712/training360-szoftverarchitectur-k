@@ -26,3 +26,4 @@
 ![24](Mongodel.png)
 ![25[(Többréteg.png)
 ![26](TöbbrNapló.png)
+![27](Webes.png)
