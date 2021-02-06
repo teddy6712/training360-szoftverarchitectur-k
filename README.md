@@ -1,0 +1,1 @@
+# training360-szoftverarchitectur-k
