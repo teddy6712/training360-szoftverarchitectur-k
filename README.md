@@ -10,3 +10,4 @@
 ![8](StandaloneGraf2.png)
 ![9](StandaloneGraf3.png)
 ![10](KözpontiAdatbázis.png)
+![11](KözpontiAdatb2.png)
