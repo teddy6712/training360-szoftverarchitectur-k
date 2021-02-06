@@ -7,3 +7,4 @@
 ![5](StandaloneK5.png)
 ![6](StandaloneK6.png)
 ![7](StandaloneGrafikus.png)
+![8](StandaloneGraf2.png)
