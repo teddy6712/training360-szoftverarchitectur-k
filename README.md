@@ -4,3 +4,4 @@
 ![2](StandaloneK2.png)
 ![3](StandaloneK3.png)
 ![4](StandaloneK4.png)
+![5](StandaloneK5.png)
