@@ -15,3 +15,4 @@
 ![13](KözpAdatb4.png)
 ![14](KözpAdatb5.png)
 ![15](DBeaverconn.png)
+![16](SQLKonz5.png)
